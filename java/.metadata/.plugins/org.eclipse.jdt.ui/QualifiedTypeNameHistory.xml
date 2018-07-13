@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.mjm.herencia.Playera"/>
+<fullyQualifiedTypeName name="com.mjm.herencia.Calcetin"/>
+<fullyQualifiedTypeName name="com.mjm.InterfacesExamples.IDevolucion"/>
+<fullyQualifiedTypeName name="com.mjm.InterfacesExamples.PlayeraPersonalizada"/>
+<fullyQualifiedTypeName name="com.mjm.InterfacesExamples.SmartPhone"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="java.sql.Time"/>
+<fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+<fullyQualifiedTypeName name="java.time.LocalTime"/>
+<fullyQualifiedTypeName name="Serie"/>
+<fullyQualifiedTypeName name="Pelicula"/>
+</qualifiedTypeNameHistroy>

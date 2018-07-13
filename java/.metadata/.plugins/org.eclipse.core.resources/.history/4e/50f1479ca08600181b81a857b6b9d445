@@ -1,0 +1,20 @@
+
+
+
+public class Ejecutable {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+				
+		Pelicula peliArra[] = new Pelicula[5];
+		Serie serieArra[] = new Serie[5];
+		
+	  peliArra[0]= new Pelicula();
+	  peliArra[0].setTitulo("Pelicula1");
+	  peliArra[0].setGenero("Genero1");
+	  peliArra[0].setCreador("Creador1");
+	  peliArra[0].setAño(2000);
+	  peliArra[0].setDuracion(duracion);(2000);
+	}
+
+}
